@@ -1,0 +1,9 @@
+[CHALLENGE GAME]
+
+Title=Software Giant
+Description=You started your company at the dawn of the software industry where opportunities are abundant.^^To become the software giant of tomorrow, you must invest aggressively into R&D to ramp up your company's innovation capability and execute product launches flawlessly to establish strong foothold in key software markets and ultimately dominate them. 
+
+Player Skill Level=Advanced 
+
+Contest Started On=2020-09-15
+Contest Deadline=2021-06-30
